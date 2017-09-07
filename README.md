@@ -2,8 +2,8 @@
 
 everything around the mem project
 
-# [Server](server/readme.md)
+# [Server](server)
 
-# [Client](client/readme.md)
+# [Client](client)
 
-# [Design](design/readme.md)
+# [Design](design)
