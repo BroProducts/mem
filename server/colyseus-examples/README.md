@@ -1,5 +1,4 @@
-colyseus-examples
-===
+# [mem](https://github.com/BroProducts/mem) / [server](../) / colyseus-examples()
 
 How to run
 ---
