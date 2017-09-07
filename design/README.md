@@ -1,1 +1,1 @@
-# mem-designs
+# mem/design
