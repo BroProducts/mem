@@ -1,4 +1,4 @@
-# [mem](https://github.com/BroProducts/mem)
+# mem
 everything around the mem project
 
 ## [Server](server)
