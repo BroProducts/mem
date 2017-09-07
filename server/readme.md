@@ -1,4 +1,4 @@
-# [mem](https://github.com/BroProducts/mem) / server
+# server
 
 ## Dev Setup
 
