@@ -1,0 +1,24 @@
+{
+  "name": "mem-prototype-server",
+  "version": "0.0.1",
+  "description": "game server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BroProducts/mem-prototype-server.git"
+  },
+  "keywords": [
+    "playcanvas",
+    "game",
+    "server"
+  ],
+  "author": "Jonas Voland & Raphael Hättich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BroProducts/mem-prototype-server/issues"
+  },
+  "homepage": "https://github.com/BroProducts/mem-prototype-server#readme"
+}
