@@ -2,8 +2,8 @@
 
 ## Classes
 
-- [Monk](classes/monk.md)
-- Hunter
-- Warrior
-- Assassin
-- Ritualist
+- [Monk](classes/monk)
+- [Hunter](classes/hunter)
+- [Warrior](classes/warrior)
+- [Assassin](classes/assassin)
+- [Ritualist](classes/ritualist)
