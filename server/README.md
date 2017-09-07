@@ -1,3 +1,7 @@
-#### [mem](https://github.com/BroProducts/mem) / [server]()
+# [mem](https://github.com/BroProducts/mem) / [server]()
 
-# mem/server
+## Dev Setup
+
+## Prod Setup
+
+## Links

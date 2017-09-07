@@ -1,11 +1,11 @@
-#### [mem](https://github.com/BroProducts/mem)
-
-# mem
-
+# [mem](https://github.com/BroProducts/mem)
 everything around the mem project
 
-# [Server](server)
+## [Server](server)
+Mem Server
 
-# [Client](client)
+## [Client](client)
+Mem Client
 
-# [Design](design)
+## [Design](design)
+Mem Designs
