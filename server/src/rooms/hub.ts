@@ -11,11 +11,13 @@ export class Hub extends Room {
     //When a client joins the room
     onJoin (client) {
         this.state.messages.push(`${ client.id } joined hub.`);
+        console.log(this.state);
     }
 
     //When a client leaves the room
     onLeave (client) {
         this.state.messages.push(`${ client.id } left hub.`);
+        console.log(this.state);
     }
 
     //When a client send a message
