@@ -1,5 +1,5 @@
 {
-  "name": "mem-prototype-server",
+  "name": "mem-server",
   "version": "0.0.1",
   "description": "game server",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BroProducts/mem-prototype-server.git"
+    "url": "git+https://github.com/BroProducts/mem.git"
   },
   "keywords": [
     "playcanvas",
@@ -18,7 +18,7 @@
   "author": "BroProducts",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BroProducts/mem-prototype-server/issues"
+    "url": "https://github.com/BroProducts/mem/issues"
   },
-  "homepage": "https://github.com/BroProducts/mem-prototype-server#readme"
+  "homepage": "https://github.com/BroProducts/mem#readme"
 }
