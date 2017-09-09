@@ -191,6 +191,7 @@ GameObject:
   - component: {fileID: 1096532754}
   - component: {fileID: 1096532753}
   - component: {fileID: 1096532752}
+  - component: {fileID: 1096532757}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -268,3 +269,17 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1096532757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1096532751}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83855632fc18d483c85deef50b1f49ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serverName: localhost
+  port: 2657
+  roomName: hub
