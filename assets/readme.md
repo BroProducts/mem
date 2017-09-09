@@ -25,7 +25,14 @@ her are assets which we bought and have the rights to use
 - Cliff Pack: https://www.assetstore.unity3d.com/en/#!/content/67289
 - Woods Lifestyle: https://www.assetstore.unity3d.com/en/#!/content/65306
 - Environments Collection: https://www.assetstore.unity3d.com/en/#!/content/74890
+- Fox: https://www.assetstore.unity3d.com/en/#!/content/80356
+- Wolf: https://www.assetstore.unity3d.com/en/#!/content/78795
+- Deer: https://www.assetstore.unity3d.com/en/#!/content/80357
+- Boat: https://www.assetstore.unity3d.com/en/#!/content/80360
+- RTS Battle Kit: https://www.assetstore.unity3d.com/en/#!/content/60079
 
 #### Icons:
 - Weapons Collection: https://www.assetstore.unity3d.com/en/#!/content/64375
--
+- RPG Weapons: https://www.assetstore.unity3d.com/en/#!/content/48546
+- Skills: https://www.assetstore.unity3d.com/en/#!/content/88625
+- Avatar: https://www.assetstore.unity3d.com/en/#!/content/44273
