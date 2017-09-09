@@ -10,13 +10,15 @@ export class Hub extends Room {
         this.setState(new StateHandler)
         this.setPatchRate(1000 / 20)
         console.log("Hub created!", options)
+        this.setSimulationInterval(this.onSimulationInterval);
+        this.autoDispose = false;
     }
 
     //When a client try to joins the room
     //If true client joins the room
     requestJoin(options) {
       //TODO: If a user from friendlist is in the room u can still join(only in the Hub)
-      return this.clients.length < this.options.maxClients
+      return this.clients.length < this.maxClients
     }
 
     //When a client joins the room
@@ -38,6 +40,11 @@ export class Hub extends Room {
     onDispose () {
         console.log("Dispose ChatRoom")
     }
+
+    private onSimulationInterval() {
+      console.log('lol')
+    }
+
 
 
 }
