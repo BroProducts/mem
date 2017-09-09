@@ -36,3 +36,7 @@ her are assets which we bought and have the rights to use
 - RPG Weapons: https://www.assetstore.unity3d.com/en/#!/content/48546
 - Skills: https://www.assetstore.unity3d.com/en/#!/content/88625
 - Avatar: https://www.assetstore.unity3d.com/en/#!/content/44273
+
+#### Music:
+- Fantasy: https://www.assetstore.unity3d.com/en/#!/content/72886
+- Actiontrax: https://www.assetstore.unity3d.com/en/#!/content/1030
