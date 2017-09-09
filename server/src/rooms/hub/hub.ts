@@ -8,11 +8,10 @@ export class Hub extends Room {
     //When room is initialized
     onInit (options) {
         this.setState(new StateHandler)
-        this.setPatchRate(1000 / 20)
-        console.log("Hub created!", options)
-        this.setSimulationInterval(this.onSimulationInterval);
-        this.autoDispose = false;
-        setInterval(() => this.state.increaseCounter(), 1000)
+        this.setPatchRate( 1000 / 20 );
+        this.setSimulationInterval( this.update.bind(this) );
+
+        console.log("Hub created!", options);
     }
 
     //When a client try to joins the room
@@ -42,7 +41,9 @@ export class Hub extends Room {
         console.log("Dispose ChatRoom")
     }
 
-    private onSimulationInterval() {
+    update () {
+      this.state.increaseCounter()
+      console.log(this.state)
       console.log('lol')
     }
 

@@ -25,36 +25,28 @@ public class ColyseusClient : MonoBehaviour {
 
 		room = client.Join(roomName);
 		room.OnReadyToConnect += (sender, e) => StartCoroutine ( room.Connect() );
-		room.OnJoin += OnRoomJoined;
-		room.OnUpdate += OnUpdateHandler;
+		room.OnJoin += OnJoin;
+		room.OnUpdate += OnUpdate;
 
+		room.Listen ("counter/:number", this.OnCounterChange);
 		room.Listen ("players/:id/:axis", this.OnPlayerMove);
 		room.Listen ("players/:id", this.OnPlayerChange);
 		room.Listen ("messages/:number", this.OnMessageAdded);
 		room.Listen (this.OnChangeFallback);
-
 		int i = 0;
-
-		while (true)
-		{
+		while (true) {
 			client.Recv();
-
 			// string reply = client.RecvString();
-			if (client.error != null)
-			{
+			if (client.error != null) {
 				Debug.LogError ("Error: "+client.error);
 				break;
 			}
-
 			i++;
-
 			if (i % 50 == 0) {
 				room.Send("some_command");
 			}
-
 			yield return 0;
 		}
-
 		OnApplicationQuit();
 	}
 
@@ -70,9 +62,15 @@ public class ColyseusClient : MonoBehaviour {
 		Debug.Log("Connected to server. Client id: " + client.id);
 	}
 
-	void OnRoomJoined (object sender, EventArgs e)
+	void OnJoin (object sender, EventArgs e)
 	{
 		Debug.Log("Joined room successfully.");
+	}
+
+	void OnCounterChange (DataChange change)
+	{
+		print("CounterChanged");
+		print(change);
 	}
 
 	void OnPlayerChange (DataChange change)
@@ -112,9 +110,10 @@ public class ColyseusClient : MonoBehaviour {
 		// Debug.Log (change.value);
 	}
 
-	void OnUpdateHandler (object sender, RoomUpdateEventArgs e)
+	//When new state from server get received
+	void OnUpdate (object sender, RoomUpdateEventArgs e)
 	{
-		Debug.Log(e.state);
+		// Debug.Log(e.state);
 	}
 
 	void OnApplicationQuit()
