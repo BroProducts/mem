@@ -12,6 +12,7 @@ export class Hub extends Room {
         console.log("Hub created!", options)
         this.setSimulationInterval(this.onSimulationInterval);
         this.autoDispose = false;
+        setInterval(() => this.state.increaseCounter(), 1000)
     }
 
     //When a client try to joins the room

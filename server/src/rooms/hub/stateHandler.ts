@@ -1,9 +1,11 @@
 export class StateHandler {
   players: any
   map: any
+  counter: number
   constructor () {
     this.players = {}
     this.map = {}
+    this.counter = 0
   }
 
   addPlayer (client) {
@@ -14,10 +16,15 @@ export class StateHandler {
     console.log('removed player')
   }
 
+  increaseCounter () {
+    this.counter++
+  }
+
   toJSON () {
     return {
       players: this.players,
-      map: this.map
+      map: this.map,
+      counter: this.counter
     }
   }
 }
