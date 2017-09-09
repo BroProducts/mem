@@ -1,6 +1,6 @@
 # hub
 
-the hub is the place where i player can buy stuff and prepare for fight.
+the hub is the place where a player can buy stuff and prepare for fight.
 
 he can join queues for pvp matches
 
