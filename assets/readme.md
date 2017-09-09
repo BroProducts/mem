@@ -27,5 +27,5 @@ her are assets which we bought and have the rights to use
 - Environments Collection: https://www.assetstore.unity3d.com/en/#!/content/74890
 
 #### Icons:
--
+- Weapons Collection: https://www.assetstore.unity3d.com/en/#!/content/64375
 -
