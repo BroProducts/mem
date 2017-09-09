@@ -5,7 +5,7 @@ her are assets which we bought and have the rights to use
 
 
 
-### Watch for:
+#### Nice assets for the future:
 - Adventure Pack: https://www.assetstore.unity3d.com/en/#!/content/80585
 - Knights Pack: https://www.assetstore.unity3d.com/en/#!/content/83694
 - Forst Pack: https://www.assetstore.unity3d.com/en/#!/content/50011
