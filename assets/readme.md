@@ -20,6 +20,7 @@ her are assets which we bought and have the rights to use
 - Ultimate Pack: https://www.assetstore.unity3d.com/en/#!/content/54733
 - RPG Item Pack: https://www.assetstore.unity3d.com/en/#!/content/76088
 - Weapons: https://www.assetstore.unity3d.com/en/#!/content/95184
+- Fantasy Weapons: https://www.assetstore.unity3d.com/en/#!/content/84956
 - Cliff Pack: https://www.assetstore.unity3d.com/en/#!/content/67289
 - Woods Lifestyle: https://www.assetstore.unity3d.com/en/#!/content/65306
 - Environments Collection: https://www.assetstore.unity3d.com/en/#!/content/74890
