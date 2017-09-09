@@ -16,7 +16,7 @@ const httpServer = createServer(app)
 const gameServer = new Server({ server: httpServer })
 
 // Register Hub as "hub"
-gameServer.register("hub", Hub)
+gameServer.register('hub', Hub)
 
 
 gameServer.listen(port)
