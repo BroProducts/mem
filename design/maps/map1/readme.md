@@ -8,6 +8,8 @@
 
 
 The Goal of the map is to kill the enemy team first
+The Matches should be very short.
+Max 5 mins. after time is over every player gets debuffs so they are weeker
 
 the winner team automaticly joins the queue for the next match and builds up a winning streak
 
