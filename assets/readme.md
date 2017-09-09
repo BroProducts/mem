@@ -5,7 +5,7 @@ her are assets which we bought and have the rights to use
 
 
 
-## Watch for:
+### Watch for:
 - Adventure Pack: https://www.assetstore.unity3d.com/en/#!/content/80585
 - Knights Pack: https://www.assetstore.unity3d.com/en/#!/content/83694
 - Forst Pack: https://www.assetstore.unity3d.com/en/#!/content/50011
@@ -15,3 +15,11 @@ her are assets which we bought and have the rights to use
 - Vegetation Pack: https://www.assetstore.unity3d.com/en/#!/content/80146
 - Rocks Pack: https://www.assetstore.unity3d.com/en/#!/content/70164
 - Asteroid Pack: https://www.assetstore.unity3d.com/en/#!/content/83016
+- Portal Pack: https://www.assetstore.unity3d.com/en/#!/content/81221
+- Dungeons Pack: https://www.assetstore.unity3d.com/en/#!/content/94002
+- Ultimate Pack: https://www.assetstore.unity3d.com/en/#!/content/54733
+- RPG Item Pack: https://www.assetstore.unity3d.com/en/#!/content/76088
+- Weapons: https://www.assetstore.unity3d.com/en/#!/content/95184
+- Cliff Pack: https://www.assetstore.unity3d.com/en/#!/content/67289
+- Woods Lifestyle: https://www.assetstore.unity3d.com/en/#!/content/65306
+- Environments Collection: https://www.assetstore.unity3d.com/en/#!/content/74890
