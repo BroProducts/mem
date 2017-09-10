@@ -29,7 +29,8 @@ her are assets which we bought and have the rights to use
 - Fox: https://www.assetstore.unity3d.com/en/#!/content/80356
 - Wolf: https://www.assetstore.unity3d.com/en/#!/content/78795
 - Deer: https://www.assetstore.unity3d.com/en/#!/content/80357
-- Boat: https://www.assetstore.unity3d.com/en/#!/content/80360
+- Boar: https://www.assetstore.unity3d.com/en/#!/content/80360
+- Squirrel: https://www.assetstore.unity3d.com/en/#!/content/67621
 - RTS Battle Kit: https://www.assetstore.unity3d.com/en/#!/content/60079
 
 #### Icons:
