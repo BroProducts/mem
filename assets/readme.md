@@ -34,6 +34,7 @@ her are assets which we bought and have the rights to use
 - Boar: https://www.assetstore.unity3d.com/en/#!/content/80360
 - Squirrel: https://www.assetstore.unity3d.com/en/#!/content/67621
 - RTS Battle Kit: https://www.assetstore.unity3d.com/en/#!/content/60079
+- Substance: https://www.assetstore.unity3d.com/en/#!/content/57242
 
 #### Icons:
 - Weapons Collection: https://www.assetstore.unity3d.com/en/#!/content/64375
