@@ -25,6 +25,7 @@ her are assets which we bought and have the rights to use
 - Cliff Pack: https://www.assetstore.unity3d.com/en/#!/content/67289
 - Woods Lifestyle: https://www.assetstore.unity3d.com/en/#!/content/65306
 - Environments Collection: https://www.assetstore.unity3d.com/en/#!/content/74890
+- Water GPU: https://www.assetstore.unity3d.com/en/#!/content/79255
 - Fantasy Characters: https://www.assetstore.unity3d.com/en/#!/content/97186
 - Fox: https://www.assetstore.unity3d.com/en/#!/content/80356
 - Wolf: https://www.assetstore.unity3d.com/en/#!/content/78795
