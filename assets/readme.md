@@ -9,6 +9,7 @@ her are assets which we bought and have the rights to use
 #### 3D Low Poly: 
 - Adventure Pack: https://www.assetstore.unity3d.com/en/#!/content/80585
 - Knights Pack: https://www.assetstore.unity3d.com/en/#!/content/83694
+- Samurai Pack: https://www.assetstore.unity3d.com/en/#!/content/89551
 - Forst Pack: https://www.assetstore.unity3d.com/en/#!/content/50011
 - Mountain Pack: https://www.assetstore.unity3d.com/en/#!/content/63714
 - Low-Poly Nature: https://www.assetstore.unity3d.com/en/#!/content/66322
