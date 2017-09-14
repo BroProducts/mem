@@ -28,6 +28,7 @@ her are assets which we bought and have the rights to use
 - Environments Collection: https://www.assetstore.unity3d.com/en/#!/content/74890
 - Water GPU: https://www.assetstore.unity3d.com/en/#!/content/79255
 - Fantasy Characters: https://www.assetstore.unity3d.com/en/#!/content/97186
+- Low Poly Worlds: https://www.assetstore.unity3d.com/en/#!/content/96076
 - Fox: https://www.assetstore.unity3d.com/en/#!/content/80356
 - Wolf: https://www.assetstore.unity3d.com/en/#!/content/78795
 - Deer: https://www.assetstore.unity3d.com/en/#!/content/80357
