@@ -9,6 +9,7 @@ her are assets which we bought and have the rights to use
 #### 3D Low Poly: 
 - Adventure Pack: https://www.assetstore.unity3d.com/en/#!/content/80585
 - Knights Pack: https://www.assetstore.unity3d.com/en/#!/content/83694
+- Samurai Pack: https://www.assetstore.unity3d.com/en/#!/content/89551
 - Forst Pack: https://www.assetstore.unity3d.com/en/#!/content/50011
 - Mountain Pack: https://www.assetstore.unity3d.com/en/#!/content/63714
 - Low-Poly Nature: https://www.assetstore.unity3d.com/en/#!/content/66322
@@ -25,13 +26,16 @@ her are assets which we bought and have the rights to use
 - Cliff Pack: https://www.assetstore.unity3d.com/en/#!/content/67289
 - Woods Lifestyle: https://www.assetstore.unity3d.com/en/#!/content/65306
 - Environments Collection: https://www.assetstore.unity3d.com/en/#!/content/74890
+- Water GPU: https://www.assetstore.unity3d.com/en/#!/content/79255
 - Fantasy Characters: https://www.assetstore.unity3d.com/en/#!/content/97186
+- Low Poly Worlds: https://www.assetstore.unity3d.com/en/#!/content/96076
 - Fox: https://www.assetstore.unity3d.com/en/#!/content/80356
 - Wolf: https://www.assetstore.unity3d.com/en/#!/content/78795
 - Deer: https://www.assetstore.unity3d.com/en/#!/content/80357
 - Boar: https://www.assetstore.unity3d.com/en/#!/content/80360
 - Squirrel: https://www.assetstore.unity3d.com/en/#!/content/67621
 - RTS Battle Kit: https://www.assetstore.unity3d.com/en/#!/content/60079
+- Substance: https://www.assetstore.unity3d.com/en/#!/content/57242
 
 #### Icons:
 - Weapons Collection: https://www.assetstore.unity3d.com/en/#!/content/64375
