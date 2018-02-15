@@ -16,4 +16,4 @@
 - Chest
 - Legs
 - Feet
-- Cloaks
+- Cloak
