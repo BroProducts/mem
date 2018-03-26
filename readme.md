@@ -10,7 +10,7 @@ everything around the mem project
 ## Project “MEM” 1-Page GDD
 Guild Wars 1 meets League of Legends
 
-![RPG Game](https://i.imgur.com/4dizQr5.jpg "Logo Title Text 1")
+![RPG Game](https://i.imgur.com/4dizQr5.jpg "RPG Game")
 
 **Genre:** RPG, 3rd person camera RPG.
 
