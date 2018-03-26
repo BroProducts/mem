@@ -7,11 +7,11 @@ everything around the mem project
 - [Design](design)
 
 
-# Project “MEM” 1-Page GDD
-## Guild Wars 1 meets League of Legends
+## Project “MEM” 1-Page GDD
+Guild Wars 1 meets League of Legends
 
 
-Genre:​ RPG, 3rd person fixed camera RPG.
+*Genre*:​ RPG, 3rd person fixed camera RPG.
 Target Audience:​ T for Teen.
 Controls:​ Mouse & keyboard and controller
 Thematic Setting:​ Medieval fantasy - swords, knights, dragons
